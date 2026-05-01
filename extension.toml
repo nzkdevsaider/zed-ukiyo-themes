@@ -1,0 +1,7 @@
+id = "ukiyo"
+name = "Ukiyo"
+version = "0.0.1"
+schema_version = 1
+authors = ["nzkdevsaider <sebasmoraresu@gmail.com>"]
+description = ""
+repository = "https://github.com/nzkdevsaider/zed-ukiyo-themes"
