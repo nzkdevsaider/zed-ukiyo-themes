@@ -3,5 +3,5 @@ name = "Ukiyo"
 version = "0.0.1"
 schema_version = 1
 authors = ["nzkdevsaider <sebasmoraresu@gmail.com>"]
-description = ""
+description = "A collection of cozy themes for Zed, inspired by the aesthetics of Ukiyo-e art."
 repository = "https://github.com/nzkdevsaider/zed-ukiyo-themes"
